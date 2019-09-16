@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.gliwka.hyperscan.jna"},{"l":"com.gliwka.hyperscan.wrapper"}]
